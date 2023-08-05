@@ -2,7 +2,7 @@ package new_project_package;
 
 import org.testng.annotations.Test;
 
-public class test_class2 {
+public class test_class1 {
 
 	
 	@Test
